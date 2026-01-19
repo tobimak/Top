@@ -1,0 +1,360 @@
+{
+  "Nasus": {
+    "runas": "",
+    "tips": [],
+    "build": "",
+    "tier": "tier-orange"
+  },
+  "Mordekaiser": {
+    "runas": "Aegis",
+    "tips": [
+      "Esquivar Q y E",
+      "Aplicar agarre perpetuo",
+      "Lvl 6 pvp"
+    ],
+    "build": "Escudo de Doran, Ciclovoltaica",
+    "tier": "tier-orange"
+  },
+  "Aatrox": {
+    "runas": "",
+    "tips": [],
+    "build": "",
+    "tier": "tier-orange"
+  },
+  "Urgot": {
+    "runas": "Aegis",
+    "tips": [
+      "Jugar safe hasta Eclipse"
+    ],
+    "build": "Escudo de Doran, Eclipse",
+    "tier": "tier-light-green"
+  },
+  "Malphite": {
+    "runas": "",
+    "tips": [],
+    "build": "",
+    "tier": "tier-orange"
+  },
+  "Darius": {
+    "runas": "",
+    "tips": [],
+    "build": "",
+    "tier": "tier-orange"
+  },
+  "Trundle": {
+    "runas": "",
+    "tips": [],
+    "build": "",
+    "tier": "tier-orange"
+  },
+  "Sett": {
+    "runas": "Aegis",
+    "tips": [
+      "Empezar con W",
+      "Trade muy corto y pegar agarre"
+    ],
+    "build": "Escudo de Doran, Cota del guardabosque (vs mucho AD), Shojin, Danza",
+    "tier": "tier-red"
+  },
+  "Shen": {
+    "runas": "",
+    "tips": [],
+    "build": "",
+    "tier": "tier-orange"
+  },
+  "Sion": {
+    "runas": "Emberlord",
+    "tips": [],
+    "build": "Espada de Doran, Eclipse",
+    "tier": "tier-light-green"
+  },
+  "Chogath": {
+    "runas": "Emberlord",
+    "tips": [
+      "Esquivar su stun y combear",
+      "Leer su patrón de ataque",
+      "Cuidado con el silencio"
+    ],
+    "build": "Espada de Doran, Eclipse",
+    "tier": "tier-light-green"
+  },
+  "Volibear": {
+    "runas": "",
+    "tips": [],
+    "build": "",
+    "tier": "tier-orange"
+  },
+  "Singed": {
+    "runas": "",
+    "tips": [],
+    "build": "Escudo de Doran",
+    "tier": "tier-orange"
+  },
+  "Jax": {
+    "runas": "Aegis",
+    "tips": [
+      "Tradear poco en lvl bajo",
+      "Con Eclipse mandate",
+      "Usar Q para poke",
+      "Si usa E, salir con tu E",
+      "Si te salta, usar W"
+    ],
+    "build": "Eclipse",
+    "tier": "tier-light-green"
+  },
+  "Renekton": {
+    "runas": "Aegis",
+    "tips": [
+      "Safe primeros 3 niveles",
+      "Poke post lvl 3",
+      "Cuidado lvl 6",
+      "Tapar su stun con tu escudo"
+    ],
+    "build": "Escudo de Doran, Cortacuras, Eclipse",
+    "tier": "tier-orange"
+  },
+  "Yone": {
+    "runas": "",
+    "tips": [],
+    "build": "",
+    "tier": "tier-orange"
+  },
+  "Heimerdinger": {
+    "runas": "Emberlord",
+    "tips": [
+      "Pokear con segunda Q",
+      "Pelear lvl 6"
+    ],
+    "build": "Escudo de Doran, Malmortius, Shojin",
+    "tier": "tier-light-green"
+  },
+  "Gwen": {
+    "runas": "Aegis",
+    "tips": [],
+    "build": "",
+    "tier": "tier-orange"
+  },
+  "Aurora": {
+    "runas": "",
+    "tips": [],
+    "build": "",
+    "tier": "tier-orange"
+  },
+  "Irelia": {
+    "runas": "",
+    "tips": [],
+    "build": "",
+    "tier": "tier-orange"
+  },
+  "Riven": {
+    "runas": "Aegis",
+    "tips": [
+      "Kitear para atrás con tu Q mientras usa la suya",
+      "Usar W para su tercera Q"
+    ],
+    "build": "",
+    "tier": "tier-light-green"
+  },
+  "Olaf": {
+    "runas": "",
+    "tips": [],
+    "build": "",
+    "tier": "tier-orange"
+  },
+  "Yasuo": {
+    "runas": "",
+    "tips": [],
+    "build": "Espada de Doran, Eclipse",
+    "tier": "tier-orange"
+  },
+  "Kennen": {
+    "runas": "",
+    "tips": [],
+    "build": "",
+    "tier": "tier-orange"
+  },
+  "Kayle": {
+    "runas": "Aegis",
+    "tips": [
+      "Lvl bajo le ganás",
+      "Lvl 6 cuidado, trade lento para baitear R"
+    ],
+    "build": "Escudo de Doran, Ciclovoltaica",
+    "tier": "tier-light-green"
+  },
+  "Camille": {
+    "runas": "Aegis",
+    "tips": [
+      "Jugar agresivo lvl 1",
+      "Desde lvl 3 se puede jugar",
+      "Esquivar salto y daño verdadero",
+      "Guardar escudo por si sale mal"
+    ],
+    "build": "Escudo de Doran, Ciclo espada",
+    "tier": "tier-light-green"
+  },
+  "Gnar": {
+    "runas": "",
+    "tips": [],
+    "build": "",
+    "tier": "tier-light-green"
+  },
+  "Ornn": {
+    "runas": "Emberlord",
+    "tips": [
+      "Pokear y bloquear su marca con la W",
+      "Quitar su R con tu R",
+      "Tradear con agarre perpetuo"
+    ],
+    "build": "Escudo de Doran, Eclipse",
+    "tier": "tier-light-green"
+  },
+  "Quinn": {
+    "runas": "",
+    "tips": [],
+    "build": "",
+    "tier": "tier-orange"
+  },
+  "Fiora": {
+    "runas": "",
+    "tips": [],
+    "build": "",
+    "tier": "tier-orange"
+  },
+  "Gangplank": {
+    "runas": "",
+    "tips": [],
+    "build": "",
+    "tier": "tier-orange"
+  },
+  "Tryndamere": {
+    "runas": "Aegis",
+    "tips": [
+      "Cuidado lvl bajo",
+      "Trade lento hasta primer item",
+      "Jugar en dos tiempos para gastar su ulti"
+    ],
+    "build": "Escudo de Doran, Eclipse",
+    "tier": "tier-light-green"
+  },
+  "Jayce": {
+    "runas": "",
+    "tips": [],
+    "build": "",
+    "tier": "tier-orange"
+  },
+  "Yorick": {
+    "runas": "",
+    "tips": [],
+    "build": "",
+    "tier": "tier-orange"
+  },
+  "Pantheon": {
+    "runas": "",
+    "tips": [],
+    "build": "",
+    "tier": "tier-orange"
+  },
+  "Kled": {
+    "runas": "",
+    "tips": [],
+    "build": "",
+    "tier": "tier-orange"
+  },
+  "Illaoi": {
+    "runas": "",
+    "tips": [],
+    "build": "",
+    "tier": "tier-orange"
+  },
+  "Poppy": {
+    "runas": "Aegis",
+    "tips": [
+      "Cuidado con el corte de dash",
+      "El escudo va a la pared más cercana",
+      "Usar la E bien timing"
+    ],
+    "build": "",
+    "tier": "tier-red"
+  },
+  "KSante": {
+    "runas": "",
+    "tips": [],
+    "build": "",
+    "tier": "tier-orange"
+  },
+  "Wukong": {
+    "runas": "",
+    "tips": [],
+    "build": "",
+    "tier": "tier-orange"
+  },
+  "TahmKench": {
+    "runas": "Emberlord",
+    "tips": [
+      "Tradear con escudo y salir",
+      "Pelear con los minions"
+    ],
+    "build": "Eclipse si vida, Ciclovoltaica si armor",
+    "tier": "tier-orange"
+  },
+  "Udyr": {
+    "runas": "",
+    "tips": [],
+    "build": "",
+    "tier": "tier-orange"
+  },
+  "DrMundo": {
+    "runas": "Emberlord",
+    "tips": [
+      "Jugar atrás de los minions"
+    ],
+    "build": "Espada de Doran, Eclipse",
+    "tier": "tier-light-green"
+  },
+  "Akali": {
+    "runas": "",
+    "tips": [],
+    "build": "",
+    "tier": "tier-orange"
+  },
+  "Zac": {
+    "runas": "",
+    "tips": [],
+    "build": "",
+    "tier": "tier-orange"
+  },
+  "Rumble": {
+    "runas": "",
+    "tips": [],
+    "build": "",
+    "tier": "tier-orange"
+  },
+  "Garen": {
+    "runas": "",
+    "tips": [],
+    "build": "",
+    "tier": "tier-orange"
+  },
+  "Warwick": {
+    "runas": "Emberlord, Arcanist",
+    "tips": [
+      "Ignite",
+      "Trade lento hasta primer item"
+    ],
+    "build": "Espada de Doran, Ciclovoltaica",
+    "tier": "tier-red"
+  },
+  "Gragas": {
+    "runas": "",
+    "tips": [],
+    "build": "",
+    "tier": "tier-orange"
+  },
+  "Vayne": {
+    "runas": "",
+    "tips": [],
+    "build": "",
+    "tier": "tier-orange"
+  }
+}

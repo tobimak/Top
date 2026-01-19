@@ -1,0 +1,88 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background: #010a13; /* Fondo oscuro de LoL */
+    font-family: 'Beaufort for LOL', serif; /* O Segoe UI si no tienes la fuente */
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+}
+
+/* Efecto de fondo sutil */
+.overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: radial-gradient(circle, rgba(10, 30, 60, 0.4) 0%, rgba(1, 10, 19, 1) 80%);
+    z-index: 1;
+}
+
+.main-content {
+    position: relative;
+    z-index: 2;
+    text-align: center;
+}
+
+.title {
+    color: #f0e6d2;
+    font-size: 4rem;
+    letter-spacing: 5px;
+    margin-bottom: 10px;
+    text-shadow: 0 0 20px rgba(200, 170, 110, 0.5);
+}
+
+.subtitle {
+    color: #c8aa6e;
+    font-size: 1.2rem;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    margin-bottom: 40px;
+}
+
+/* Botones Hextech */
+.button-container {
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.hextech-button {
+    position: relative;
+    padding: 15px 40px;
+    background: #1e2328;
+    border: 2px solid #c8aa6e;
+    color: #f0e6d2;
+    text-decoration: none;
+    font-weight: bold;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    transition: all 0.3s ease;
+    cursor: pointer;
+    overflow: hidden;
+}
+
+.hextech-button:hover {
+    background: #c8aa6e;
+    color: #010a13;
+    box-shadow: 0 0 20px rgba(200, 170, 110, 0.6);
+}
+
+.btn-secondary {
+    border-color: #5b5a56;
+    color: #a09b8c;
+}
+
+.btn-secondary:hover {
+    background: #5b5a56;
+    color: #f0e6d2;
+    border-color: #f0e6d2;
+}

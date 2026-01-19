@@ -1,0 +1,79 @@
+body { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; background: #010a13; color: #cdbe91; margin: 20px; }
+.container { max-width: 1400px; margin: auto; }
+h1 { text-align: center; color: #f0e6d2; text-transform: uppercase; letter-spacing: 2px; }
+
+/* Buscador */
+.search-container { margin-bottom: 25px; text-align: center; }
+#searchInput { padding: 12px; width: 350px; border-radius: 2px; border: 1px solid #c8aa6e; background: #1e2328; color: #f0e6d2; outline: none; }
+
+/* Contenedor General */
+.table-container { border: 1px solid #3c3c41; background: #1a1c21; }
+
+/* Filas (Header y Datos) */
+.header-row, .matchup-row { 
+    display: flex; 
+    align-items: center; 
+    border-bottom: 1px solid #3c3c41; 
+    text-align: center; /* Centra el texto de las columnas */
+}
+
+.header-row { background: #091428; font-weight: bold; color: #c89b3c; padding: 15px 0; }
+.matchup-row { transition: background 0.2s; min-height: 80px; }
+.matchup-row:hover { background: #252a30; }
+
+/* Definición de Columnas - ANCHOS FIJOS PARA ALINEACIÓN PERFECTA */
+.col { padding: 10px; box-sizing: border-box; }
+
+.col-icon  { flex: 0 0 10%; } /* 10% del ancho */
+.col-champ { flex: 0 0 15%; font-weight: bold; font-size: 1.1em; }
+.col-runas { flex: 0 0 15%; font-size: 0.9em; }
+.col-tips  { flex: 0 0 35%; text-align: left; font-size: 0.9em; } /* Tips a la izquierda para leer mejor */
+.col-build { flex: 0 0 15%; font-size: 0.9em; }
+.col-tier  { flex: 0 0 10%; align-self: stretch; } /* El color ocupa todo el alto */
+
+/* Elementos internos */
+.col-icon img { width: 70px; height: 70px; border: 1px solid #c8aa6e; border-radius: 2px; vertical-align: middle; }
+ul { margin: 0; padding-left: 18px; }
+li { margin-bottom: 4px; }
+
+/* Tiers Colores */
+.tier-orange { background-color: #ffb347 !important; }
+.tier-light-green { background-color: #90ee90 !important; }
+.tier-green { background-color: #228b22 !important;}
+.tier-red { background-color: #ff4b4b !important; }
+.tier-black { background-color: #000000 !important; }
+
+/* Contenedor para ubicar el botón a la derecha */
+.top-nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-between; /* CLAVE */
+    padding: 20px 0;
+    max-width: 1400px;
+    margin: 0 auto 20px;
+}
+
+/* Estilo del botón */
+.btn-redirect {
+    background-color: #091428; /* Color rojo similar a tu referencia */
+    color: #f0e6d2;
+    padding: 12px 30px;
+    text-decoration: none;
+    font-weight: bold;
+    text-transform: uppercase;
+    font-size: 1.2rem;
+    border: 2px solid #c8aa6e; /* Borde dorado consistente con la tabla */
+    border-radius: 15px;
+    transition: all 0.3s ease;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+    cursor: pointer;
+}
+
+/* Efecto Hover */
+.btn-redirect:hover {
+    background-color: #3c3c41;
+    border-color: #f0e6d2;
+    transform: scale(1.05);
+    box-shadow: 0 0 15px rgba(200, 170, 110, 0.4);
+}
+

@@ -1,0 +1,421 @@
+{
+  "Nasus": {
+    "runas": "Emberlord, Berserker, Arcanist",
+    "tips": [
+      "Pelear lvl 3 con 4 ghouls",
+      "Backeos al día / pushea lento",
+      "Pelear a desgaste de mana",
+      "Forzar su ulti (cada 115s)"
+    ],
+    "build": "Espada de Doran, Cortacura, Cuchilla oscura",
+    "tier": "tier-orange"
+  },
+  "Mordekaiser": {
+    "runas": "Emberlord, Arcanist",
+    "tips": [
+      "Antes de lvl 6, si erra una habilidad y tenés tu kit es win",
+      "en lvl 7,8 subir la w",
+      "Si vas letalidad no acercarse cuando tiene R",
+      "Usar W en vos mismo para que no pueda flashear"
+    ],
+    "build": "Rompe escudos",
+    "tier": "tier-red"
+  },
+  "Aatrox": {
+    "runas": "Emberlord, Berserker",
+    "tips": [
+      "si gasta el dash podes ganar el trade con tu w",
+      "Si gasta combo completo, pelear"
+    ],
+    "build": "Cortacura, Botas, triniti",
+    "tier": "tier-light-green"
+  },
+  "Urgot": {
+    "runas": "Emberlord",
+    "tips": [
+      "Usar W para cortar su salto",
+      "Que te focusee a vos y no a los ghouls"
+    ],
+    "build": "Botas, cota",
+    "tier": "tier-orange"
+  },
+  "Malphite": {
+    "runas": "Emberlord",
+    "tips": [
+      "Gasta mucho mana lvl 1 y 2"
+    ],
+    "build": "escudo de doran,cuchilla",
+    "tier": "tier-green"
+  },
+  "Darius": {
+    "runas": "Emberlord, Berserker",
+    "tips": [
+      "Encerrarlo en la W",
+      "cuidado con lo bush lvl 1",
+      "cuidado fantasmal"
+    ],
+    "build": "Espada y potis",
+    "tier": "tier-orange"
+  },
+  "Trundle": {
+    "runas": "Arcanist",
+    "tips": [
+      "Pelear cuando gasta aceleración o ulti"
+    ],
+    "build": "Anillo o Espada de Doran, Ignite o TP",
+    "tier": "tier-orange"
+  },
+  "Sett": {
+    "runas": "Emberlord, Berserker",
+    "tips": [
+      "Lvl 3 pelear con 4 ghouls",
+      "Lvl 6 pelear",
+      "Pokear y tirar W para esquivar daño verdadero"
+    ],
+    "build": "Espada de Doran, Botas, Cuchilla, Rompecascos o Trinidad",
+    "tier": "tier-light-green"
+  },
+  "Shen": {
+    "runas": "Emberlord",
+    "tips": [
+      "Primeros niveles jugar safe",
+      "Después del primer back se puede pelear"
+    ],
+    "build": "Escudo o Espada de Doran, trinidad, Cuchilla",
+    "tier": "tier-green"
+  },
+  "Sion": {
+    "runas": "Emberlord",
+    "tips": [
+      "Jugar lejos de los bush",
+      "No dejarlo proxifarmear",
+      "Escuchar el sonido de la ulti"
+    ],
+    "build": "Espada de Doran, Trinidad, Cuchilla, Tiamat",
+    "tier": "tier-green"
+  },
+  "Chogath": {
+    "runas": "Emberlord",
+    "tips": [
+      "Farm lvl 3 con 4 tumbas y pvp"
+    ],
+    "build": "Espada de Doran, Trinidad, Cuchilla, Tiamat",
+    "tier": "tier-green"
+  },
+  "Volibear": {
+    "runas": "Arcanist",
+    "tips": [
+      "Jugar safe hasta lvl 6",
+      "Pokear mucho y tradear corto",
+      "Cuidado con rayo y stun que sale de tu W",
+      "Se mete al bush para tirar rayo, alejarse"
+    ],
+    "build": "Espada de Doran, Cortacura, trinidad",
+    "tier": "tier-orange"
+  },
+  "Singed": {
+    "runas": "Berserker",
+    "tips": [
+      "Lvl 3 pelearle",
+      "No dejarlo proxifarmear"
+    ],
+    "build": "Espada de Doran, trinidad",
+    "tier": "tier-green"
+  },
+  "Gnar": {
+    "runas": "Berserker",
+    "tips": [
+      "Lvl 3 pelearle",
+      "No dejarlo proxifarmear"
+    ],
+    "build": "Espada de Doran, trinidad",
+    "tier": "tier-orange"
+  },
+  "Jax": {
+    "runas": "Emberlord Tank",
+    "tips": [
+      "Jugar cerca de la torre",
+      "Usar W defensiva",
+      "Con lvl 6 o item se puede pelear",
+      "Respetar daño explosivo"
+    ],
+    "build": "Escudo de Doran, Guantelete de Hielo, shojin, Serylda",
+    "tier": "tier-red"
+  },
+  "Renekton": {
+    "runas": "Emberlord",
+    "tips": [
+      "Usar Q cuando pegue su Q",
+      "Aguantar la W después de su segunda E",
+      "Lvl 3 con 4 tumbas o lvl 6 pelear"
+    ],
+    "build": "Escudo de Doran,Trinidad, Cortacura",
+    "tier": "tier-orange"
+  },
+  "Yone": {
+    "runas": "Emberlord",
+    "tips": [
+      "Lvl 3 con 3 ghouls pvp",
+      "Lvl 6 es win",
+      "Esquivar su R"
+    ],
+    "build": "Escudo de Doran, Trinidad o Cielo desgarrado, Tabis si lose",
+    "tier": "tier-light-green"
+  },
+  "Heimerdinger": {
+    "runas": "Emberlord",
+    "tips": [
+      "Perder push y jugar safe hasta lvl 6",
+      "Desgastar con la E"
+    ],
+    "build": "Espada de Doran, arrogancia, Hidra voraz o profana",
+    "tier": "tier-orange"
+  },
+  "Gwen": {
+    "runas": "Berserker",
+    "tips": [
+      "Lvl 3 con 4 tumbas pvp",
+      "Jugar safe sin ghouls",
+      "Ponerse delante de los minions post lvl 6"
+    ],
+    "build": "Espada de Doran, Malmortius, Trinidad",
+    "tier": "tier-orange"
+  },
+  "Irelia": {
+    "runas": "Tank",
+    "tips": [
+      "Pelear lvl 6 o con armor",
+      "Jugar muy safe si tiene ignite"
+    ],
+    "build": "Guantelete de Hielo, shojin",
+    "tier": "tier-black"
+  },
+  "Riven": {
+    "runas": "Emberlord Tank",
+    "tips": [
+      "Cuidado con su combo lvl 6",
+      "Pokear antes del lvl 6",
+      "Atacar cuando gasta combo"
+    ],
+    "build": "Escudo de Doran, trinidad si win, Guantelete de Hielo si lose",
+    "tier": "tier-orange"
+  },
+  "Yasuo": {
+    "runas": "Emberlord",
+    "tips": [
+      "Lvl 3 con 3 ghouls pvp",
+      "Lvl 6 win",
+      "Esquivar su R"
+    ],
+    "build": "Escudo de Doran, Trinidad, Tabis si lose",
+    "tier": "tier-light-green"
+  },
+  "Kennen": {
+    "runas": "Emberlord",
+    "tips": [
+      "Jugar atrás de ghouls y minions",
+      "Lvl 6 free"
+    ],
+    "build": "Espada de Doran, arrogancia, Hidra voraz o profana",
+    "tier": "tier-green"
+  },
+  "Camille": {
+    "runas": "Emberlord",
+    "tips": [
+      "Jugar con el cd de su daño verdadero"
+    ],
+    "build": "Cuchilla oscura, Rompecascos, Hidra titánica, Cortacura",
+    "tier": "tier-black"
+  },
+  "Ornn": {
+    "runas": "Emberlord",
+    "tips": [
+      "Lvl 3 pvp con 4 ghouls",
+      "Poner W después de su E",
+      "Baitear su E con tu W"
+    ],
+    "build": "Espada de Doran, Cuchilla, trinidad",
+    "tier": "tier-green"
+  },
+  "Quinn": {
+    "runas": "Arcanist",
+    "tips": [
+      "Jugar safe hasta lvl 6",
+      "Encerrar con W y retroceder para su salto"
+    ],
+    "build": "arrogancia, Letalidad si molesta",
+    "tier": "tier-orange"
+  },
+  "Fiora": {
+    "runas": "Emberlord",
+    "tips": [
+      "Jugar safe hasta lvl 6",
+      "Esperar que gaste dash"
+    ],
+    "build": "Escudo de Doran, Cortacura, Trinidad",
+    "tier": "tier-red"
+  },
+  "Gangplank": {
+    "runas": "Berserker",
+    "tips": [
+      "Jugar safe hasta lvl 6",
+      "Romper barriles",
+      "Desde lvl 6 una E y es free"
+    ],
+    "build": "Escudo de Doran, Trinidad",
+    "tier": "tier-green"
+  },
+  "Tryndamere": {
+    "runas": "Tank",
+    "tips": [
+      "Jugar safe",
+      "Intentar matarlo antes de lvl 6 con 4 ghouls",
+      "Jugar con el cooldown de Brillo"
+    ],
+    "build": "Escudo de Doran, Guantelete de hielo, shojin",
+    "tier": "tier-orange"
+  },
+  "Jayce": {
+    "runas": "Emberlord, Tank, Berserker",
+    "tips": [],
+    "build": "Escudo de Doran, guante de hielo",
+    "tier": "tier-orange"
+  },
+  "Ambessa": {
+    "runas": "Berserker",
+    "tips": [
+      "Jugar safe hasta 4 tumbas",
+      "E más W y es free con 4 ghouls",
+      "Respetar su pokeo y daño explosivo lvl 6"
+    ],
+    "build": "Trinity si win, Guantelete si lose",
+    "tier": "tier-light-green"
+  },
+  "Pantheon": {
+    "runas": "Emberlord",
+    "tips": [],
+    "build": "Trinity si win, Guantelete si lose",
+    "tier": "tier-light-green"
+  },
+  "Kled": {
+    "runas": "Emberlord",
+    "tips": [
+      "Jaula arriba tuyo cuando se tira"
+    ],
+    "build": "Escudo de Doran, Trinity si win, Guantelete si lose",
+    "tier": "tier-orange"
+  },
+  "Illaoi": {
+    "runas": "Berserker",
+    "tips": [
+      "Jugar atrás de los ghouls y minions",
+      "Free a partir de lvl 6"
+    ],
+    "build": "Escudo de Doran, Cortacura,Cuchilla, trinidad",
+    "tier": "tier-light-green"
+  },
+  "Poppy": {
+    "runas": "Emberlord",
+    "tips": [
+      "Jugar safe hasta lvl 3",
+      "Lvl 6 pvp",
+      "Su pasiva va a la pared más cercana a ella",
+      "Sale de tu W, usarla después de su dash"
+    ],
+    "build": "Escudo de Doran, Cuchilla",
+    "tier": "tier-light-green"
+  },
+  "KSante": {
+    "runas": "Emberlord",
+    "tips": [
+      "Pelear lvl 3 con 4 ghouls",
+      "Respetar lvl 6 y daño de la W",
+      "Tu W frena su W"
+    ],
+    "build": "Escudo de Doran, Cuchilla, Eclipse",
+    "tier": "tier-light-green"
+  },
+  "Wukong": {
+    "runas": "Berserker",
+    "tips": [],
+    "build": "",
+    "tier": "tier-orange"
+  },
+  "TahmKench": {
+    "runas": "Emberlord",
+    "tips": [
+      "Jugar atrás de minions y agresivo antes de lvl 6",
+      "Lvl 6 free"
+    ],
+    "build": "Escudo de Doran, Cortacura, Trinity",
+    "tier": "tier-orange"
+  },
+  "Udyr": {
+    "runas": "Emberlord, Berserker",
+    "tips": [],
+    "build": "",
+    "tier": "tier-orange"
+  },
+  "DrMundo": {
+    "runas": "Emberlord",
+    "tips": [
+      "Jugar atrás de minions y agresivo antes de lvl 6",
+      "Lvl 6 free"
+    ],
+    "build": "Escudo de Doran, Cortacura, Trinity",
+    "tier": "tier-green"
+  },
+  "Akali": {
+    "runas": "Berserker",
+    "tips": [
+      "Esquivar Q",
+      "No comer daño y respetar lvl 6"
+    ],
+    "build": "Escudo de Doran, Trinidad o Cielo desgarrado",
+    "tier": "tier-black"
+  },
+  "Zac": {
+    "runas": "Emberlord",
+    "tips": [
+      "Jugar agresivo",
+      "Lvl 6 free",
+      "Encerrarlo cuando activa R para que no agarre su baba"
+    ],
+    "build": "Espada de Doran, Cortacura, Cuchilla, trinidad",
+    "tier": "tier-green"
+  },
+  "Rumble": {
+    "runas": "Emberlord",
+    "tips": [],
+    "build": "",
+    "tier": "tier-orange"
+  },
+  "Garen": {
+    "runas": "Emberlord, Berserker",
+    "tips": [],
+    "build": "",
+    "tier": "tier-green"
+  },
+  "Warwick": {
+    "runas": "Arcanist",
+    "tips": [],
+    "build": "",
+    "tier": "tier-orange"
+  },
+  "Gragas": {
+    "runas": "Berserker",
+    "tips": [
+      "Jugar atrás de los ghouls",
+      "Pegar la E y es free",
+      "Tener en cuenta la R y su desengage"
+    ],
+    "build": "Espada de Doran, Eclipse",
+    "tier": "tier-green"
+  },
+  "Vayne": {
+    "runas": "Arcanist",
+    "tips": [],
+    "build": "",
+    "tier": "tier-red"
+  }
+}
